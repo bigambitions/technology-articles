@@ -1,7 +1,11 @@
 ## Focused Open Source Technologies 
-Big Ambitions is currently focusing on the open source Cloud, SDN / NFV, Linux and Networking technologies.
+Big Ambitions is currently focusing on the Open source Cloud, SDN / NFV, Linux and Networking technologies.
 
-- Linux Systems (RHEL, CentOS, Ubuntu, Fedora)
+- Linux Systems
+  - RHEL
+  - CentOS
+  - Ubuntu
+  - Fedora
 - OpenStack
 - OpenDaylight
 - Docker
@@ -9,6 +13,7 @@ Big Ambitions is currently focusing on the open source Cloud, SDN / NFV, Linux a
 - Flocker
 - Apache Mesos
 - OpenShift
+- Project Atomic
 - Weave
 - Clair
 - Vagrant
