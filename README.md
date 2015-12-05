@@ -18,6 +18,10 @@ Big Ambitions is currently focusing on the Open source [Cloud Computing](https:/
 - [Clair](https://github.com/bigambitions/technology-articles/blob/master/clair/README.md)
 - [Vagrant](https://github.com/bigambitions/technology-articles/blob/master/vagrant/README.md)
 - [Puppet](https://github.com/bigambitions/technology-articles/blob/master/puppet/README.md)
+- [Deis](https://github.com/bigambitions/technology-articles/blob/master/deis/README.md)
+- [Totem](https://github.com/bigambitions/technology-articles/blob/master/totem/README.md)
+- [Flannel](https://github.com/bigambitions/technology-articles/blob/master/flannel/README.md)
+- [Notary](https://github.com/bigambitions/technology-articles/blob/master/notary/README.md)
 
 
 ## Contributing
